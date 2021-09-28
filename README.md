@@ -1,4 +1,4 @@
-# tjaye_plates
+# Horchata_plates
 Get custom plates! :)
 
 # how to add custom images to plates
